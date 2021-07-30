@@ -16,12 +16,12 @@ let package = Package(
         .binaryTarget(
             name: "WalletCore",
             url: "https://github.com/OldCrab/WalletCorePackage/releases/download/0.1/WalletCore.xcframework.zip",
-            checksum: "fc9752de863dcb10ae3c3c21028848bd1740e3451cb21cdf311fb0962ea44e02"
+            checksum: "01ce844abe162e27b9fa755f649e02c37360a2b9f21bf3289b0f011dfd603602"
         ),
         .binaryTarget(
             name: "SwiftProtobuf",
             url: "https://github.com/OldCrab/WalletCorePackage/releases/download/0.1/SwiftProtobuf.xcframework.zip",
-            checksum: "66eb6206f0cac5e78a6b2db2a35ed7f7e53649bacb0d830da2778a241d87a74b"
+            checksum: "d64cefcfa102bd0ea94e5e2d75ab28532ee442d875fa7c62dc6b896d6fb91f1b"
         )
     ]
 )
